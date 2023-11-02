@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/T-Toshiya/T-Toshiya/main/profile-summary-card-output/synthwave/4-productive-time.svg)
-```
-
-    
