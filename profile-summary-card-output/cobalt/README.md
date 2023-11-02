@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/T-Toshiya/T-Toshiya/main/profile-summary-card-output/cobalt/4-productive-time.svg)
+```
+
+    
