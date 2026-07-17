@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/T-Toshiya/T-Toshiya/main/profile-summary-card-output/radical/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/T-Toshiya/T-Toshiya/main/profile-summary-card-output/radical/4-productive-time.svg)
-```
-
-    
