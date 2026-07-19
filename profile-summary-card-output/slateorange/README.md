@@ -42,3 +42,23 @@
 ```
 
     
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/T-Toshiya/T-Toshiya/main/profile-summary-card-output/slateorange/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/T-Toshiya/T-Toshiya/main/profile-summary-card-output/slateorange/4-productive-time.svg)
+```
+
+    
